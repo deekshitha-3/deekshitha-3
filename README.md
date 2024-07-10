@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects and innovative tech initiatives
 - 📫 How to reach me: [Email](mailto:deekshitha1325@example.com), [LinkedIn](https://www.linkedin.com/in/deekshitha-m-b02649254)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I am an intern at Codsoft and enthusiastic about emerging technologies
 
 <!---
 deekshitha-3/deekshitha-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
